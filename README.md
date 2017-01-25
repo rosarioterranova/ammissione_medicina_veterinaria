@@ -6,5 +6,5 @@ Grazie a questa app rimarrai sempre aggiornato con le novità, bandi, date, moda
 - **Platform**: Windows Phone
 - **Programming language**: C#
 
-##Screenshoot
+##Screenshots
 https://github.com/rosarioterranova/ammissione_medicina_veterinaria/tree/master/Screenshot
